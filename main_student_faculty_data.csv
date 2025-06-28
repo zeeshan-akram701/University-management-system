@@ -1,0 +1,9 @@
+id,name,father_name,password,email,phone,father_phone,address,new_address,gender,nationality,multiple_nationality,emergency_contact,matric_grade,inter_grade,college_name,college_address,CNIC,father_CNIC,inter_type,inter_board,matric_type,matric_board,merit_base,count_number
+21,,,,,,,,,,,,,,,,,,,,,,,,2
+2121,zohaib,qwert,1234r,1234,123,1234,123,234,123,1234,1234,1234,1234,1234,1234,23,1234,234,1234,1234,1234,1234,234,9
+2121,8765432,,87654,8765,8765,098765,98765,8765,876,8765,98765,987654,oiuyt,uytr,uytd,,[poiuyf,,,oiuyt,gf,poiuy,oyt,3
+1234,1234,234,1234,23,234,234,123,34,123,23,234,1234,234,123,123,3,23,123,23,23,234,234,23,9
+2122,zeeshan,kram,1laptop123,qwer,qwer,qwer,wer,wer,qwer,wer,qwer,qwer,0,0,0,0,0,1,0,0,0,0,0,9
+1234,12345,234,1234,2345,234,234,234,23,sdfg,ert,wert,wert,ert,wert,sdfg,ert,wer,wert,wer,wer,wer,wert,wer,1
+2121,zohaib,afdar,212121,12345,qwer,qwer,qwer,we,qwe,we,wer,we,,,,,we,we,,,,,0,1
+2121,zohaib,safdar,212121,maherzohaib,03493890880,2345,2345,3456,3456,wert,erty,rtyu,345y,werty,wer,erty,erty,erty,erty,werty,45yu,wert,merit,3

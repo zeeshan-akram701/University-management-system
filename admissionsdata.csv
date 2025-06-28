@@ -1,0 +1,21 @@
+new_id,new_name,new_father_name,new_password,new_email,new_phone,new_father_phone,address,new_address,new_gender,new_nationality,multiple_nationality,emergency_contact,matric_grade,inter_grade,collage_name,collage_address,CNIC,father_CNIC,inter_type,inter_board,matric_type,matric_board
+1,Ahmed Khan,Saeed Khan,pass123,ahmed@gmail.com,03001234567,03009876543,Karachi- Pakistan,Lahore- Pakistan,Male,Pakistani,None,03112345678,A+,A,ABC College,Lahore-Pakistan,12345-6789012-3,98765-4321098-6,Pre-Engineering,Lahore Board,Science,Karachi Board
+2,Ayesha Ali,Imran Ali,ayesha@123,ayesha@gmail.com,03007654321,03006789012,Islamabad- Pakistan,Rawalpindi- Pakistan,Female,Pakistani,None,03123456789,A,B+,DEF College,Rawalpindi- Pakistan,23456-7890123-4,87654-3210987-5,Pre-Medical,Federal Board,Science,Islamabad Board
+3,Bilal Ahmed,Khalid Ahmed,bilal321,bilal@gmail.com,03111223344,03115566778,Peshawar- Pakistan,Islamabad-Pakistan,Male,Pakistani,UK,03234567890,B+,A-,GHI College,Islamabad- Pakistan,34567-8901234-5,76543-2109876-4,Commerce,Peshawar Board,Arts,Peshawar Board
+4,Maria Khan,Aslam Khan,maria456,maria@gmail.com,03212233445,03214455678,Lahore- Pakistan,Multan- Pakistan,Female,Pakistani,USA,03345678901,A,A,JKL College,Multan-Pakistan,45678-9012345-6,65432-1098765-3,Computer Science,Lahore Board,Science,Lahore Board
+5,Usman Raza,Naveed Raza,usman789,usman@gmail.com,03412233446,03414455679,Faisalabad- Pakistan,Lahore- Pakistan,Male,Pakistani,None,03456789012,A-,B+,MNO College,Faisalabad-Pakistan,56789-0123456-7,54321-0987654-2,Pre-Engineering,Faisalabad Board,Science,Faisalabad Board
+6,Zara Tariq,Tariq Mahmood,zara123,zara@gmail.com,03456789012,03455678901,Multan- Pakistan,Bahawalpur- Pakistan,Female,Pakistani,Canada,03567890123,A,A+,PQR College,Bahawalpur-Pakistan,67890-1234567-8,43210-9876543-1,Pre-Medical,Multan Board,Science,Multan Board
+7,Ali Haider,Waqar Haider,ali@456,ali@gmail.com,03512345678,03509876543,Quetta- Pakistan,Karachi-Pakistan,Male,Pakistani,Australia,03678901234,B,B+,STU College,Karachi- Pakistan,78901-2345678-9,32109-8765432-0,Commerce,Quetta Board,Arts,Quetta Board
+8,Sana Anwar,Anwar Ali,sana321,sana@gmail.com,03612345679,03609876544,Hyderabad- Pakistan,Karachi- Pakistan,Female,Pakistani,None,03789012345,A,A,VWX College,Karachi- Pakistan,89012-3456789-0,21098-7654321-9,Pre-Engineering,Hyderabad Board,Science,Hyderabad Board
+9,Zain Malik,Umar Malik,zain@987,zain@gmail.com,03712345680,03709876545,Sukkur-Pakistan,Larkana- Pakistan,Male,Pakistani,Germany,03890123456,A-,B,YZA College,Sukkur-Pakistan,90123-4567890-1,10987-6543210-8,Computer Science,Sukkur Board,Science,Sukkur Board
+10,Fatima Noor,Akbar Noor,fatima@123,fatima@gmail.com,03812345681,03809876546,Rawalpindi- Pakistan,Lahore-Pakistan,Female,Pakistani,UK,03901234567,A,A+,BCD College,Lahore- Pakistan,01234-5678901-2,98765-4321098-6,Pre-Medical,Federal Board,Science,Federal Board
+2121131,zohaib,safdar,P2121131,maherzohaib.280@gmail.com,03493890880,03466855722,,ujrat,male,pakistanin,none,033338485132,1087,813,PGC,,34201-2134609-1,098765434679-1,,,,,
+23,2,1,2,2,2,2,,,2,2,2,2,2,2,2,,2,2,,,,,
+1234,1234,234,1234,23,234,234,,34,123,23,234,1234,234,123,123,,23,123,,,,,
+2121,zohaib,qwert,1234r,1234,123,1234,,234,123,1234,1234,1234,1234,1234,1234,,1234,234,,,,,
+2121,8765432,]87654,8765,8765,098765,98765,,876,8765,98765,987654,oiuyt,uytr,uytd,[poiuyf,,oiuyt,gf,,,,,
+1234,12345,234,1234,2345,234,234,,23,sdfg,ert,wert,wert,ert,wert,sdfg,,wer,wert,,,,,
+1221,zeeshan,akram,1221,zeeshanakram701@gmail.com,03220176314,032498529348,,azirabad,male,pakistan,no,075453873586,1040,1111,muslim hands,,3244543645653332,324354363434123423,,,,,
+2121,zohaib,safdar,212121,maherzohaib,03493890880,2345,,3456,3456,wert,erty,rtyu,345y,werty,wer,,erty,erty,,,,,
+1111,zeeshan,akram,1212,zesshanslkajf,03220176314,13290483754,,azirabad,male,132,23,34,234,34,34,,34,34,,,,,
+11111,awais_cheema,qaiser_cheema,2121,skdfjsadlfhe,405743950643,438597439856,,azirabaf,male,pakistani,no,340925720438,1100,720,aspire,,02952739584375,023945743509743958,,,,,

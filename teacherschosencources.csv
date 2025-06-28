@@ -1,0 +1,6 @@
+ID,Name,main_dep,choosen_courses,choosen_sec
+T001,Dr. Ahmed,Computer Science,CS101;CS201,A
+T002,Prof. Sara,Mathematics,MATH201;MATH301,B
+T003,Dr. Kamal,Physics,PHY105;PHY205,C
+T004,Prof. Ayesha,English,ENG102;ENG202,A
+T005,Dr. Bilal,Chemistry,CHEM101;CHEM202,B
